@@ -3,7 +3,7 @@
 		"public": {
 			"char_limit": 2500,
 			"name_limit": 25,
-			"godword": "PotatoChips,
+			"godword": "PotatoChips",
 			"runlevel": {
 				"godmode": 0,
 				"youtube": 0,
@@ -42,7 +42,7 @@
 		"private": {
 			"char_limit": 5000,
 			"name_limit": 25,
-			"godword": "AskAI_To_Make_Dih_For_You,
+			"godword": "AskAI_To_Make_Dih_For_You",
 			"runlevel": {
 				"godmode": 0,
 				"youtube": 0,
