@@ -1,0 +1,5 @@
+Node.js and npm
+Ruby
+Sass
+Git
+Cordova (Optional)
